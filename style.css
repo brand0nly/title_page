@@ -1,12 +1,25 @@
 #image {
     background-image: url(/logo.png);
     width: 100%;
-    height: 80px;
+    height: 1000px;
     border: 1px solid;
     margin: 0 auto;
     background-repeat: no-repeat;
+    background-color:
 }
 body {
     padding: 0;
     margin: 0;
+}
+#image a{
+    background-color: green;
+    width: 200px;
+    font-size: 100px;
+    background-image: ;
+    margin-left: 750px
+    
+}
+#image a:hover {
+    background-color: aqua;
+    
 }
